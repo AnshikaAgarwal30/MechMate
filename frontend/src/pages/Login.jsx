@@ -148,7 +148,7 @@ const Login = () => {
         variant="outline-dark"
         className="w-100"
         onClick={() =>
-          handleDemo('admin@mechmate.com', 'Demo@123')
+          handleDemo('admin@mechmate.com', 'Admin@123')
         }
         disabled={loading}
       >
